@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaleha1812&label=Profile%20views&color=0e75b6&style=flat" alt="swaleha1812" /> </p>
 
-- 🌱 I’m currently learning **ReactJS,AngularJS,VueJS,Machine Learning,Typescript,Tailwind,**
+- 🌱 I’m currently learning **ReactJS,Machine Learning,Typescript,Tailwind,**
 
 - 👨‍💻 All of my projects are available at [https://swalehapatel.netlify.app/](https://swalehapatel.netlify.app/)
 
-- 💬 Ask me about **C,Java,Python,Operating System,HTML5,CSS3,Javascript,SQLipt**
+- 💬 Ask me about **C,Java,Python,Operating System,HTML5,CSS3,Javascript,SQL **
 
 - 📫 How to reach me **swaleha.patel1812@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mX7pAnkNnWT42cqvr2M2lIIDowcyBAzh/view?usp=drive_link](https://drive.google.com/file/d/1mX7pAnkNnWT42cqvr2M2lIIDowcyBAzh/view?usp=drive_link)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
